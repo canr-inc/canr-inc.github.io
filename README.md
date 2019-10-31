@@ -1,6 +1,7 @@
 # jekyll-redirect-template
 
 以下のHPを参考にリダイレクト
+
 https://qiita.com/succi0303/items/1f670a02482196eb240e
 
 This is a template project that makes access to GitHub Pages redirect to arbitrary URL.
